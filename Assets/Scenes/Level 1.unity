@@ -170,6 +170,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3751227b51f46788c3e45904c0bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathFX: {fileID: 9194352180220771609, guid: 6658810922e764584b1b69237d28d02b, type: 3}
+  parent: {fileID: 821578886}
 --- !u!1001 &105025054
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -237,10 +239,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8390648964717749510, guid: 60f26d6465b822444ab5dadf5986bb35, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f26d6465b822444ab5dadf5986bb35, type: 3}
 --- !u!1001 &140931503
@@ -250,10 +248,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 857951673}
     m_Modifications:
-    - target: {fileID: -8190947762452876489, guid: 6d7afa73fcb1fce4cb4b65361a29bcbd, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1074994750746910, guid: 6d7afa73fcb1fce4cb4b65361a29bcbd, type: 3}
       propertyPath: m_Name
       value: Ship_03 (1)
@@ -393,6 +387,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3751227b51f46788c3e45904c0bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathFX: {fileID: 9194352180220771609, guid: 6658810922e764584b1b69237d28d02b, type: 3}
+  parent: {fileID: 821578886}
 --- !u!1 &370344115 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9194352180220771609, guid: 501295254cb404baab8111d8f82e788c, type: 3}
@@ -510,6 +506,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3751227b51f46788c3e45904c0bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathFX: {fileID: 9194352180220771609, guid: 6658810922e764584b1b69237d28d02b, type: 3}
+  parent: {fileID: 821578886}
 --- !u!1001 &583173818
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -517,10 +515,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 857951673}
     m_Modifications:
-    - target: {fileID: -8190947762452876489, guid: 6d7afa73fcb1fce4cb4b65361a29bcbd, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1074994750746910, guid: 6d7afa73fcb1fce4cb4b65361a29bcbd, type: 3}
       propertyPath: m_Name
       value: Ship_03
@@ -741,6 +735,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3751227b51f46788c3e45904c0bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathFX: {fileID: 9194352180220771609, guid: 6658810922e764584b1b69237d28d02b, type: 3}
+  parent: {fileID: 821578886}
 --- !u!1001 &799908831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -808,10 +804,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9071305216362551906, guid: a19af03b7c64771489f010af565cc649, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a19af03b7c64771489f010af565cc649, type: 3}
 --- !u!1 &809233581 stripped
@@ -831,6 +823,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3751227b51f46788c3e45904c0bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathFX: {fileID: 9194352180220771609, guid: 6658810922e764584b1b69237d28d02b, type: 3}
+  parent: {fileID: 821578886}
+--- !u!1 &821578885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 821578886}
+  m_Layer: 0
+  m_Name: Spawned At Runtime
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &821578886
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 821578885}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &857951672
 GameObject:
   m_ObjectHideFlags: 0
@@ -904,10 +928,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 857951673}
     m_Modifications:
-    - target: {fileID: -3723813288052320333, guid: e14d375f5a36551479fc2f172353b1ba, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1090395654553690, guid: e14d375f5a36551479fc2f172353b1ba, type: 3}
       propertyPath: m_Name
       value: Ship_01
@@ -1172,6 +1192,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3751227b51f46788c3e45904c0bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathFX: {fileID: 9194352180220771609, guid: 6658810922e764584b1b69237d28d02b, type: 3}
+  parent: {fileID: 821578886}
 --- !u!1 &1752390310
 GameObject:
   m_ObjectHideFlags: 0
@@ -1532,10 +1554,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 857951673}
     m_Modifications:
-    - target: {fileID: -3723813288052320333, guid: e14d375f5a36551479fc2f172353b1ba, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1090395654553690, guid: e14d375f5a36551479fc2f172353b1ba, type: 3}
       propertyPath: m_Name
       value: Ship_01 (1)
