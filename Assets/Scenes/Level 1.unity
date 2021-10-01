@@ -1922,10 +1922,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player Ship
       objectReference: {fileID: 0}
-    - target: {fileID: 1473369612865384465, guid: 4de983a7f38874eb99b3fe21ab060610, type: 3}
-      propertyPath: m_Volume
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1476125311775186848, guid: 4de983a7f38874eb99b3fe21ab060610, type: 3}
       propertyPath: m_RootOrder
       value: 0
