@@ -3944,3 +3944,158 @@ System memory in use after: 193.1 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2015.
 Total: 4.286383 ms (FindLiveObjects: 0.505932 ms CreateObjectMapping: 0.103472 ms MarkObjects: 3.466248 ms  DeleteObjects: 0.158008 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2781.645894 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_GREEN.png
+  artifactKey: Guid(f37a24459b0cc0243aedd91f1cbdcb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_GREEN.png using Guid(f37a24459b0cc0243aedd91f1cbdcb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb125b7a2196d3d6b7124bf017e1d6a2') in 0.290526 seconds
+  Import took 0.321369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.189180 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_BLUE.png
+  artifactKey: Guid(3972248082e45d34aa7137f597b0ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_BLUE.png using Guid(3972248082e45d34aa7137f597b0ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7296c0ab3c8761cd91dd3959d06ce6c7') in 0.031762 seconds
+  Import took 0.037020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006183 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_BLUE.png
+  artifactKey: Guid(3972248082e45d34aa7137f597b0ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_BLUE.png using Guid(3972248082e45d34aa7137f597b0ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7296c0ab3c8761cd91dd3959d06ce6c7') in 0.017001 seconds
+  Import took 0.021957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.932692 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_ORANGE.png
+  artifactKey: Guid(2cd4bcc04c9688c40a17e67337256780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_ORANGE.png using Guid(2cd4bcc04c9688c40a17e67337256780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0761e3a2f34a615f55f991838e0cee9') in 0.019339 seconds
+  Import took 0.025160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004576 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_ORANGE.png
+  artifactKey: Guid(2cd4bcc04c9688c40a17e67337256780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Emission_ORANGE.png using Guid(2cd4bcc04c9688c40a17e67337256780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0761e3a2f34a615f55f991838e0cee9') in 0.019185 seconds
+  Import took 0.023175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.842165 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Albedo_VIOLET.png
+  artifactKey: Guid(2ab3392433c571441899d2d77642aaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Albedo_VIOLET.png using Guid(2ab3392433c571441899d2d77642aaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39742558c9c6fdd9b4fdf22771679022') in 0.026923 seconds
+  Import took 0.032204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001702 seconds.
+  path: Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Albedo_VIOLET.png
+  artifactKey: Guid(2ab3392433c571441899d2d77642aaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset Packs/generic space enemy/Textures/1K/Typical_Ships_Albedo_VIOLET.png using Guid(2ab3392433c571441899d2d77642aaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39742558c9c6fdd9b4fdf22771679022') in 0.017903 seconds
+  Import took 0.022215 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.308 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.4 MB.
+System memory in use after: 193.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2018.
+Total: 3.382123 ms (FindLiveObjects: 0.395237 ms CreateObjectMapping: 0.071729 ms MarkObjects: 2.739838 ms  DeleteObjects: 0.172976 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.6 MB.
+System memory in use after: 193.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2021.
+Total: 6.983896 ms (FindLiveObjects: 1.437007 ms CreateObjectMapping: 0.163233 ms MarkObjects: 4.583462 ms  DeleteObjects: 0.796691 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001649 seconds.
+Callback registration failed. Increase kMaxCallback.
+
+Fatal Error! Callback registration failed. Increase kMaxCallback.
+
+Obtained 42 stack frames.
+#0  0x007fff203f092e in __pthread_kill
+#1  0x007fff20374411 in abort
+#2  0x0000010e970b8e in CrashDontLaunchBugReporter()
+#3  0x0000010c5b1c77 in EditorMonoConsole::LogToConsoleImplementation(CppLogEntry const&)
+#4  0x0000010c5b1077 in EditorMonoConsole::LogToConsoleImplementation(DebugStringToFileData const&)
+#5  0x0000010c5b2a0e in LogToConsoleImplementation(DebugStringToFileData const&)
+#6  0x0000010e349ecd in DebugStringToFilePostprocessedStacktrace(DebugStringToFileData const&)
+#7  0x0000010e34a7b3 in DebugStringToFile(DebugStringToFileData const&)
+#8  0x00000109ff0d44 in CallbackArrayBase<void (*)(AssemblyLoadFailure), void (*)(void const*, AssemblyLoadFailure)>::Register(void (*)(AssemblyLoadFailure), void (*)(void const*, AssemblyLoadFailure), void const*)
+#9  0x0000010cf41158 in LoadDomainAndUserAssemblies(bool)
+#10 0x0000010cf43bae in LoadUserAssemblies()
+#11 0x0000010d3d4799 in AssetImportWorkerClient::ReloadMonoDomain(AssetResolver&)
+#12 0x0000010d3dbc5a in core::mutable_function<void ()>::DispatchT<void IOService::PostHelper<AssetImportWorkerClient::HandleMessage(PrepareMessage const&)::$_1>(AssetImportWorkerClient::HandleMessage(PrepareMessage const&)::$_1&&, IOService::WrapCallableInFunctionTag)::'lambda'()>::Dispatch()
+#13 0x0000010d4ad150 in asio::detail::completion_handler<core::mutable_function<void ()> >::do_complete(asio::detail::task_io_service*, asio::detail::task_io_service_operation*, std::__1::error_code const&, unsigned long)
+#14 0x0000010d4aa415 in asio::detail::task_io_service::do_run_one(asio::detail::scoped_lock<asio::detail::posix_mutex>&, asio::detail::task_io_service_thread_info&, std::__1::error_code const&)
+#15 0x0000010d4a9eb1 in asio::detail::task_io_service::run(std::__1::error_code&)
+#16 0x0000010d4a417a in IOService::Run(bool)
+#17 0x0000010d405dbc in RunAssetImporterV2()
+#18 0x0000010c727a93 in Application::InitializeProject()
+#19 0x0000010e97c44d in -[EditorApplication applicationDidFinishLaunching:]
+#20 0x007fff2050e10d in __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+#21 0x007fff205a9b6c in ___CFXRegistrationPost_block_invoke
+#22 0x007fff205a9aea in _CFXRegistrationPost
+#23 0x007fff204df38e in _CFXNotificationPost
+#24 0x007fff2124ddc8 in -[NSNotificationCenter postNotificationName:object:userInfo:]
+#25 0x007fff22d209c0 in -[NSApplication _postDidFinishNotification]
+#26 0x007fff22d20712 in -[NSApplication _sendFinishLaunchingNotification]
+#27 0x007fff22d1d8b1 in -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+#28 0x007fff22d1d507 in -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+#29 0x007fff21279516 in -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+#30 0x007fff21279386 in _NSAppleEventManagerGenericHandler
+#31 0x007fff262ec7f3 in _AppleEventsCheckInAppWithBlock
+#32 0x007fff262ebf0e in _AppleEventsCheckInAppWithBlock
+#33 0x007fff262e4c23 in aeProcessAppleEvent
+#34 0x007fff287668d2 in AEProcessAppleEvent
+#35 0x007fff22d17b90 in _DPSNextEvent
+#36 0x007fff22d15ec5 in -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+#37 0x007fff22d08239 in -[NSApplication run]
+#38 0x007fff22cdc47c in NSApplicationMain
+#39 0x0000010e9b7069 in EditorMain(int, char const**)
+#40 0x0000010e9b7299 in main
+#41 0x007fff2043af5d in start
