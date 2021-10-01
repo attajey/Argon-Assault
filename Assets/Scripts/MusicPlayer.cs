@@ -15,7 +15,7 @@ public class MusicPlayer : MonoBehaviour
         {
             DontDestroyOnLoad(gameObject);
         }
-    }
+    }//Singleton Pattern 
     // Start is called before the first frame update
 
  
